@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "uOA86O/4m1bXRMsQHPk3UPCR/LVx0/S6BXM9PQOTlL9C9h7ASX7ZGmkGW1FW86gJeof/u66J6720kzPFtph/tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Piotr\\Documents\\Projekty\\Fluent migrator asp net  core identity\\Fluent migrator asp net  core identity\\Fluent migrator asp net  core identity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Piotr\\.nuget\\packages\\fluentmigrator\\3.3.2\\fluentmigrator.3.3.2.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\fluentmigrator.abstractions\\3.3.2\\fluentmigrator.abstractions.3.3.2.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.0.0\\microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.extensions.options\\2.0.1\\microsoft.extensions.options.2.0.1.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
